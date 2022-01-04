@@ -1,0 +1,132 @@
+{
+  "name": "Harry Potter Trivia",
+  "author": "github.com/whitespace404",
+  "length of the longest question": 10,
+  "length of the longest option": 10,
+  "questions": {
+    "questions-ps": [
+      {
+        "question": "In Harry's first Potion's class, they learn how to make a potion that would ____.",
+        "options": [
+          "put the drinker into dreamless sleep",
+          "make the drinker sneeze profusely",
+          "cure boils"
+        ],
+        "answer": "cure boils",
+        "option": "c",
+        "comment": ""
+      },
+      {
+        "question": "On Dumbledore's left knee, you can find a scar shaped like ____.",
+        "options": [
+          "the floor plan of the Ministry of Magic",
+          "a lightning bolt",
+          "the map of the London Underground"
+        ],
+        "answer": "the map of the London Underground",
+        "option": "c",
+        "comment": ""
+      }
+    ],
+
+    "questions-cs": [
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "a",
+        "option": "a",
+        "comment": ""
+      },
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "b",
+        "option": "a",
+        "comment": ""
+      }
+    ],
+    "questions-pa": [
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "a",
+        "option": "a",
+        "comment": ""
+      },
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "b",
+        "option": "a",
+        "comment": ""
+      }
+    ],
+
+    "questions-gf": [
+      {
+        "question": "What month and day is assigned to the first task?",
+        "options": ["September 14", "November 24", "September 24"],
+        "answer": "November 24",
+        "option": "b",
+        "comment": ""
+      },
+      {
+        "question": "Who put up half their shares on their eel farm for a week long Quidditch world cup match in a bet with Ludo Bagman?",
+        "options": ["Edmund Gaddlegate", "Agatha Timms", "Gawain Robards"],
+        "answer": "Agatha Timms",
+        "option": "b",
+        "comment": ""
+      }
+    ],
+    "questions-op": [
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "a",
+        "option": "a",
+        "comment": ""
+      },
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "b",
+        "option": "a",
+        "comment": ""
+      }
+    ],
+
+    "questions-hbp": [
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "a",
+        "option": "a",
+        "comment": ""
+      },
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "b",
+        "option": "a",
+        "comment": ""
+      }
+    ],
+
+    "questions-dh": [
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "a",
+        "option": "a",
+        "comment": ""
+      },
+      {
+        "question": "q",
+        "options": ["a", "b", "c"],
+        "answer": "b",
+        "option": "a",
+        "comment": ""
+      }
+    ]
+  }
+}
