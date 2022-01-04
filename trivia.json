@@ -1,8 +1,8 @@
 {
   "name": "Harry Potter Trivia",
   "author": "github.com/whitespace404",
-  "length of the longest question": 10,
-  "length of the longest option": 10,
+  "length of the longest question": "...",
+  "length of the longest option": "...",
   "questions": {
     "questions-ps": [
       {
